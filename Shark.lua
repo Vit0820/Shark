@@ -2616,6 +2616,8 @@ do
 
 			return Watermark
 		end
+
+		return Library
 		--
 	end
 end
